@@ -19,3 +19,10 @@ This project was created using `bun init` in bun v1.4.2. [Bun](https://bun.com) 
 <img width="1676" height="914" alt="image" src="https://github.com/user-attachments/assets/29c8fcfa-ae82-4999-a267-1b83380b084a" />
 
 <img width="1725" height="950" alt="image" src="https://github.com/user-attachments/assets/c63bc4c4-f84c-406c-9726-2147cdd4a99f" />
+
+
+Model used gpt-4o-mini to minimize the cost and get faster response can be configured on need basis
+
+temperature is set to lower value to make the model less creative and provide accurate answer
+
+max_output_tokens can be configured on need basis
