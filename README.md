@@ -26,3 +26,10 @@ Model used gpt-4o-mini to minimize the cost and get faster response can be confi
 temperature is set to lower value to make the model less creative and provide accurate answer
 
 max_output_tokens can be configured on need basis
+
+The chatbot can also serve as an intelligent AI assistant for businesses, answering end users’ specific questions accurately and efficiently.
+
+<img width="1723" height="945" alt="image" src="https://github.com/user-attachments/assets/f86aaca9-53a9-46fa-b38b-53e6f7a43723" />
+
+<img width="1721" height="947" alt="image" src="https://github.com/user-attachments/assets/7a262a7c-b890-4a9c-a853-aaf04e580478" />
+
