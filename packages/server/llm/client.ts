@@ -42,11 +42,22 @@ export const llmClient = {
    },
 
    async summarize(text: string) {
-      const output = await inferenceClient.summarization({
-         model: 'facebook/bart-large-cnn',
-         inputs: text,
-         provider: 'hf-inference',
+      //   const output = await inferenceClient.summarization({
+      //      model: 'facebook/bart-large-cnn',
+      //      inputs: text,
+      //      provider: 'hf-inference',
+      //   });
+
+      const chatCompletion = await inferenceClient.chatCompletion({
+         model: 'meta-llama/Llama-3.1-8B-Instruct:novita',
+         messages: [
+            {
+               role: 'user',
+               content: 'What is the capital of France?',
+            },
+         ],
       });
-      return output.summary_text;
+
+      return chatCompletion.choices[0]?.message;
    },
 };
