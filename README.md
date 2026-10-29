@@ -42,31 +42,64 @@ Summarizing product reviews with the help of AI
 <img width="1723" height="950" alt="image" src="https://github.com/user-attachments/assets/021827a4-3495-4a9b-ab30-32de196e5b8e" />
 
 
-Tech stack used for the project
+# AI-Powered Applications
 
-React
-Express js
-Bun
-Shadcn
-Tailwind CSS with Flex
-Tanstack query
-MySQL
-Docker for dockerized  my sql DB
-Prisma for ORM mapping
+A collection of AI-powered applications built using modern web technologies and large language models.
 
-# AI Models
+## 🛠️ Tech Stack
 
-A curated list of AI models used across different platforms.
+### Frontend
+- **React** – Component-based UI development
+- **Shadcn UI** – Reusable UI components
+- **Tailwind CSS** – Utility-first CSS framework
+- **Flex** – Flexible layout and styling
 
-## OpenAI Models
+### Backend
+- **Express.js** – Backend API and server development
+- **Bun** – JavaScript runtime, package manager, and development toolkit
 
+### Database & ORM
+- **MySQL** – Relational database
+- **Docker** – Containerized MySQL database environment
+- **Prisma** – ORM for database access, schema management, and type-safe queries
+
+### Data Fetching & State Management
+- **TanStack Query** – Server-state management, data fetching, caching, and synchronization
+
+## 🤖 AI Models
+
+### OpenAI Models
 - [GPT-4o mini](https://platform.openai.com/docs/models/gpt-4o-mini)
 - [GPT-4.1](https://platform.openai.com/docs/models/gpt-4.1)
 
-## Hugging Face Models
-
+### Hugging Face Models
 - [`facebook/bart-large-cnn`](https://huggingface.co/facebook/bart-large-cnn)
 - [`meta-llama/Llama-3.1-8B-Instruct`](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)
+
+## 🏗️ Architecture Overview
+
+- **Frontend:** React with Shadcn UI and Tailwind CSS
+- **Backend:** Express.js running on Bun
+- **Data Layer:** MySQL with Prisma ORM
+- **Database Infrastructure:** Dockerized MySQL instance
+- **API Data Management:** TanStack Query
+- **AI Integration:** OpenAI APIs and Hugging Face models
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+2. Install dependencies using Bun.
+3. Configure the required environment variables.
+4. Start the MySQL database using Docker.
+5. Configure Prisma and apply database migrations.
+6. Start the application.
+
+Refer to the project-specific setup instructions for detailed commands and configuration.
+
+## 📄 License
+
+Add the appropriate license information for your project.
+
 
 
 
