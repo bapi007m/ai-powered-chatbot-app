@@ -54,18 +54,20 @@ MySQL
 Docker for dockerized  my sql DB
 Prisma for ORM mapping
 
-AI
-=============
+# AI Models
 
-OPENAI models
---------------
-GPT 4o mini
-GPT 4.1
-=================
-Huggingface model 
------------------------
-facebook/bart-large-cnn
-meta-llama/Llama-3.1-8B-Instruct
+A curated list of AI models used across different platforms.
+
+## OpenAI Models
+
+- [GPT-4o mini](https://platform.openai.com/docs/models/gpt-4o-mini)
+- [GPT-4.1](https://platform.openai.com/docs/models/gpt-4.1)
+
+## Hugging Face Models
+
+- [`facebook/bart-large-cnn`](https://huggingface.co/facebook/bart-large-cnn)
+- [`meta-llama/Llama-3.1-8B-Instruct`](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)
+
 
 
 
