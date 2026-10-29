@@ -94,8 +94,6 @@ A collection of AI-powered applications built using modern web technologies and 
 5. Configure Prisma and apply database migrations.
 6. Start the application.
 
-Refer to the project-specific setup instructions for detailed commands and configuration.
-
 
 
 
