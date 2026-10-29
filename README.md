@@ -96,10 +96,6 @@ A collection of AI-powered applications built using modern web technologies and 
 
 Refer to the project-specific setup instructions for detailed commands and configuration.
 
-## 📄 License
-
-Add the appropriate license information for your project.
-
 
 
 
