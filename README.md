@@ -42,5 +42,33 @@ Summarizing product reviews with the help of AI
 <img width="1723" height="950" alt="image" src="https://github.com/user-attachments/assets/021827a4-3495-4a9b-ab30-32de196e5b8e" />
 
 
+Tech stack used for the project
+
+React
+Express js
+Bun
+Shadcn
+Tailwind CSS with Flex
+Tanstack query
+MySQL
+Docker for dockerized  my sql DB
+Prisma for ORM mapping
+
+AI
+=============
+
+OPENAI models
+--------------
+GPT 4o mini
+GPT 4.1
+=================
+Huggingface model 
+-----------------------
+facebook/bart-large-cnn
+meta-llama/Llama-3.1-8B-Instruct
+
+
+
+
 
 
