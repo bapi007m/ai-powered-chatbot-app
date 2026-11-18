@@ -9,7 +9,6 @@
       "postinstall": "prisma skills sync || exit 0"
    },
    "devDependencies": {
-      "@types/bun": "latest",
       "@types/express": "^5.0.6",
       "prisma": "7.10.1"
    },
@@ -20,6 +19,7 @@
       "@huggingface/inference": "^4.13.32",
       "@prisma/adapter-mariadb": "^7.10.1",
       "@prisma/client": "^7.10.1",
+      "@types/bun": "^1.4.2",
       "dayjs": "^1.11.23",
       "dotenv": "^17.4.2",
       "express": "^5.2.1",
